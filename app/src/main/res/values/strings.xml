@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP5_Khadija</string>
+    <string name="edit_message">Enter your message here</string>
+    <string name="button_send">Send</string>
+    <string name="reply_message">Reply</string>
+    <string name="edit_reply">Enter your reply here</string>
+</resources>
